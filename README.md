@@ -173,7 +173,7 @@ if __name__ == '__main__':
 
 **Шаг 6.** Проверьте через playbook на идемпотентность.
 
-![Скрин](https://github.com/015fanatik/hw06/blob/35d295cbce0c406e539fd9820d3e3f4ec79f684b/screen/screen2.png)
+![Скрин](https://github.com/015fanatik/hw06/blob/dab029f3e1960c80346d2b768864726bc3aec135/screen/screen2.png)
 
 
 **Шаг 7.** Выйдите из виртуального окружения.
