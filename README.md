@@ -207,6 +207,6 @@ if __name__ == '__main__':
 
 # Ответ
 
-[My own collection](https://github.com/015fanatik/my_own_collection.git)
+[My own collection](https://github.com/015fanatik/my_own_collection/tree/1cd2a7e91c819612db889178a0f11d6dfd1d4769/my_own_namespace/yandex_cloud_elk)
 
 [my_own_namespace](https://github.com/015fanatik/my_own_collection/blob/1cd2a7e91c819612db889178a0f11d6dfd1d4769/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
