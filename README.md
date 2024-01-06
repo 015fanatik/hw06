@@ -173,9 +173,8 @@ if __name__ == '__main__':
 
 **Шаг 6.** Проверьте через playbook на идемпотентность.
 
-![Скрин](https://github.com/Jlljully/Ansible/blob/main/files/lesson_6/Screenshot_2.png "1")
+![Скрин](https://github.com/015fanatik/hw06/blob/35d295cbce0c406e539fd9820d3e3f4ec79f684b/screen/screen2.png)
 
-![Скрин](https://github.com/Jlljully/Ansible/blob/main/files/lesson_6/Screenshot_3.png "1")
 
 **Шаг 7.** Выйдите из виртуального окружения.
 
