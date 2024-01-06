@@ -166,7 +166,7 @@ if __name__ == '__main__':
 
 **Шаг 4.** Проверьте module на исполняемость локально.
 
-![Скрин](https://github.com/Jlljully/Ansible/blob/main/files/lesson_6/Screenshot_1.png "1")
+![Скрин](https://github.com/015fanatik/hw06/blob/660ec6035c3d32560cacb26c0e4ee3cb1a1ba77d/screen/screen1.png)
 
 
 **Шаг 5.** Напишите single task playbook и используйте module в нём.
