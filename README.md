@@ -194,7 +194,7 @@ if __name__ == '__main__':
 
 **Шаг 15.** Установите collection из локального архива: `ansible-galaxy collection install <archivename>.tar.gz`.
 
-![Скрин](https://github.com/Jlljully/Ansible/blob/main/files/lesson_6/Screenshot_4.png "1")
+![Скрин](https://github.com/015fanatik/hw06/blob/55b1b6196ef3f22fb33bee9b4c192bb08d9174c5/screen/screen3.png)
 
 **Шаг 16.** Запустите playbook, убедитесь, что он работает.
 
