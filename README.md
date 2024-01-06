@@ -198,7 +198,7 @@ if __name__ == '__main__':
 
 **Шаг 16.** Запустите playbook, убедитесь, что он работает.
 
-![Скрин](https://github.com/Jlljully/Ansible/blob/main/files/lesson_6/Screenshot_5.png "1")
+![Скрин](https://github.com/015fanatik/hw06/blob/36a3a534d76dcab73ed5b99e14f58ae37710880a/screen/screen4.png)
 
 **Шаг 17.** В ответ необходимо прислать ссылки на collection и tar.gz архив, а также скриншоты выполнения пунктов 4, 6, 15 и 16.
 
